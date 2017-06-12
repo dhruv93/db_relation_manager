@@ -1,0 +1,7 @@
+sql4300
+*.o
+.cproject
+.idea/
+.project
+.settings/
+cmake-build-debug/
